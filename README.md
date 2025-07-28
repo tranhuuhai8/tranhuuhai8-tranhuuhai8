@@ -8,7 +8,7 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="[https://facebook.com/yourusername](https://www.facebook.com/hhai.85g/)" target="_blank">
+  <a href="https://facebook.com/yourusername](https://www.facebook.com/hhai.85g/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
